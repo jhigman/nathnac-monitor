@@ -1,3 +1,3 @@
 #!/bin/bash
-sync.sh pages.txt
-send.sh
+./sync.sh pages.txt
+./send.sh
