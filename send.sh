@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ../nathnac-changes
+
 empty_files=`find . -size 0`
 
 if [ $empty_files ]; then
