@@ -1,273 +1,273 @@
-http://www.nathnac.org/ds/c_pages/country_page_AF.htm Afghanistan
-http://www.nathnac.org/ds/c_pages/country_page_AL.htm Albania
-http://www.nathnac.org/ds/c_pages/country_page_DZ.htm Algeria
-http://www.nathnac.org/ds/c_pages/country_page_AS.htm AmericanSamoa
-http://www.nathnac.org/ds/c_pages/country_page_IN_AN.htm AndamanandNicobarIslandsIndia
-http://www.nathnac.org/ds/c_pages/country_page_AD.htm Andorra
-http://www.nathnac.org/ds/c_pages/country_page_AO.htm Angola
-http://www.nathnac.org/ds/c_pages/country_page_AI.htm Anguilla
-http://www.nathnac.org/ds/c_pages/country_page_ANAX.htm Antarctica
-http://www.nathnac.org/ds/c_pages/country_page_AG.htm AntiguaandBarbuda
-http://www.nathnac.org/ds/c_pages/country_page_AR.htm Argentina
-http://www.nathnac.org/ds/c_pages/country_page_AM.htm Armenia
-http://www.nathnac.org/ds/c_pages/country_page_AW.htm Aruba
-http://www.nathnac.org/ds/c_pages/country_page_SH.htm AscensionIsland
-http://www.nathnac.org/ds/c_pages/country_page_AU.htm Australia
-http://www.nathnac.org/ds/c_pages/country_page_AU_CHRX.htm AustraliaChristmasIsland
-http://www.nathnac.org/ds/c_pages/country_page_AT.htm Austria
-http://www.nathnac.org/ds/c_pages/country_page_AZ.htm Azerbaijan
-http://www.nathnac.org/ds/c_pages/country_page_PT_AZOX.htm AzoresPortugal
-http://www.nathnac.org/ds/c_pages/country_page_BS.htm Bahamas
-http://www.nathnac.org/ds/c_pages/country_page_BH.htm Bahrain
-http://www.nathnac.org/ds/c_pages/country_page_ES_PM.htm BalearicIslandsSpain
-http://www.nathnac.org/ds/c_pages/country_page_ID.htm BaliIndonesia
-http://www.nathnac.org/ds/c_pages/country_page_BD.htm Bangladesh
-http://www.nathnac.org/ds/c_pages/country_page_BB.htm Barbados
-http://www.nathnac.org/ds/c_pages/country_page_BY.htm Belarus
-http://www.nathnac.org/ds/c_pages/country_page_BE.htm Belgium
-http://www.nathnac.org/ds/c_pages/country_page_BZ.htm Belize
-http://www.nathnac.org/ds/c_pages/country_page_BJ.htm Benin
-http://www.nathnac.org/ds/c_pages/country_page_BM.htm Bermuda
-http://www.nathnac.org/ds/c_pages/country_page_BT.htm Bhutan
-http://www.nathnac.org/ds/c_pages/country_page_BO.htm Bolivia
-http://www.nathnac.org/ds/c_pages/country_page_ID_BORX.htm BorneoIndonesia
-http://www.nathnac.org/ds/c_pages/country_page_MY_BORX.htm BorneoMalaysia
-http://www.nathnac.org/ds/c_pages/country_page_BA.htm BosniaandHerzegovina
-http://www.nathnac.org/ds/c_pages/country_page_BW.htm Botswana
-http://www.nathnac.org/ds/c_pages/country_page_BR.htm Brazil
-http://www.nathnac.org/ds/c_pages/country_page_GB_VIRX.htm BritishVirginIslands
-http://www.nathnac.org/ds/c_pages/country_page_BN.htm BruneiDarussalam
-http://www.nathnac.org/ds/c_pages/country_page_BG.htm Bulgaria
-http://www.nathnac.org/ds/c_pages/country_page_BF.htm BurkinaFaso
-http://www.nathnac.org/ds/c_pages/country_page_MM.htm Burma
-http://www.nathnac.org/ds/c_pages/country_page_BI.htm Burundi
-http://www.nathnac.org/ds/c_pages/country_page_KH.htm Cambodia
-http://www.nathnac.org/ds/c_pages/country_page_CM.htm Cameroon
-http://www.nathnac.org/ds/c_pages/country_page_CA.htm Canada
-http://www.nathnac.org/ds/c_pages/country_page_ES_CANX.htm CanaryIslandsSpain
-http://www.nathnac.org/ds/c_pages/country_page_CV.htm CapeVerde
-http://www.nathnac.org/ds/c_pages/country_page_KY.htm CaymanIslands
-http://www.nathnac.org/ds/c_pages/country_page_CF.htm CentralAfricanRepublic
-http://www.nathnac.org/ds/c_pages/country_page_TD.htm Chad
-http://www.nathnac.org/ds/c_pages/country_page_CL.htm Chile
-http://www.nathnac.org/ds/c_pages/country_page_CL_EASX.htm ChileEasterIsland
-http://www.nathnac.org/ds/c_pages/country_page_CN.htm China
-http://www.nathnac.org/ds/c_pages/country_page_HK.htm ChinaHongKong
-http://www.nathnac.org/ds/c_pages/country_page_MO.htm ChinaMacao
-http://www.nathnac.org/ds/c_pages/country_page_TIBX.htm ChinaTibet
-http://www.nathnac.org/ds/c_pages/country_page_AU_CHRX.htm ChristmasIslandAustralia
-http://www.nathnac.org/ds/c_pages/country_page_CO.htm Colombia
-http://www.nathnac.org/ds/c_pages/country_page_KM.htm Comoros
-http://www.nathnac.org/ds/c_pages/country_page_CG.htm Congo
-http://www.nathnac.org/ds/c_pages/country_page_CK.htm CookIslands
-http://www.nathnac.org/ds/c_pages/country_page_CR.htm CostaRica
-http://www.nathnac.org/ds/c_pages/country_page_CI.htm Coted'Ivoire
-http://www.nathnac.org/ds/c_pages/country_page_HR.htm Croatia
-http://www.nathnac.org/ds/c_pages/country_page_CU.htm Cuba
-http://www.nathnac.org/ds/c_pages/country_page_CY.htm Cyprus
-http://www.nathnac.org/ds/c_pages/country_page_CZ.htm CzechRepublic
-http://www.nathnac.org/ds/c_pages/country_page_KP.htm DemocraticPeople'sRepublicofKorea
-http://www.nathnac.org/ds/c_pages/country_page_DK.htm Denmark
-http://www.nathnac.org/ds/c_pages/country_page_FO.htm DenmarkFaroeIslands
-http://www.nathnac.org/ds/c_pages/country_page_DJ.htm Djibouti
-http://www.nathnac.org/ds/c_pages/country_page_DM.htm Dominica
-http://www.nathnac.org/ds/c_pages/country_page_DO.htm DominicanRepublic
-http://www.nathnac.org/ds/c_pages/country_page_CD.htm DRCongo
-http://www.nathnac.org/ds/c_pages/country_page_TL.htm EastTimor
-http://www.nathnac.org/ds/c_pages/country_page_CL_EASX.htm EasterIslandChile
-http://www.nathnac.org/ds/c_pages/country_page_EC.htm Ecuador
-http://www.nathnac.org/ds/c_pages/country_page_EC_W.htm EcuadorGalapagos
-http://www.nathnac.org/ds/c_pages/country_page_EG.htm Egypt
-http://www.nathnac.org/ds/c_pages/country_page_SV.htm ElSalvador
-http://www.nathnac.org/ds/c_pages/country_page_GQ.htm EquatorialGuinea
-http://www.nathnac.org/ds/c_pages/country_page_ER.htm Eritrea
-http://www.nathnac.org/ds/c_pages/country_page_EE.htm Estonia
-http://www.nathnac.org/ds/c_pages/country_page_ET.htm Ethiopia
-http://www.nathnac.org/ds/c_pages/country_page_FK.htm FalklandIslands
-http://www.nathnac.org/ds/c_pages/country_page_FO.htm FaroeIslandsDenmark
-http://www.nathnac.org/ds/c_pages/country_page_FJ.htm Fiji
-http://www.nathnac.org/ds/c_pages/country_page_FI.htm Finland
-http://www.nathnac.org/ds/c_pages/country_page_FR.htm France
-http://www.nathnac.org/ds/c_pages/country_page_GF.htm FrenchGuiana
-http://www.nathnac.org/ds/c_pages/country_page_PF.htm FrenchPolynesia
-http://www.nathnac.org/ds/c_pages/country_page_GA.htm Gabon
-http://www.nathnac.org/ds/c_pages/country_page_EC_W.htm GalapagosEcuador
-http://www.nathnac.org/ds/c_pages/country_page_GM.htm Gambia
-http://www.nathnac.org/ds/c_pages/country_page_GE.htm Georgia
-http://www.nathnac.org/ds/c_pages/country_page_DE.htm Germany
-http://www.nathnac.org/ds/c_pages/country_page_GH.htm Ghana
-http://www.nathnac.org/ds/c_pages/country_page_GI.htm Gibraltar
-http://www.nathnac.org/ds/c_pages/country_page_GR.htm Greece
-http://www.nathnac.org/ds/c_pages/country_page_GL.htm Greenland
-http://www.nathnac.org/ds/c_pages/country_page_GD.htm Grenada
-http://www.nathnac.org/ds/c_pages/country_page_GP.htm Guadeloupe
-http://www.nathnac.org/ds/c_pages/country_page_GU.htm Guam
-http://www.nathnac.org/ds/c_pages/country_page_GT.htm Guatemala
-http://www.nathnac.org/ds/c_pages/country_page_GN.htm Guinea
-http://www.nathnac.org/ds/c_pages/country_page_GW.htm GuineaBissau
-http://www.nathnac.org/ds/c_pages/country_page_GY.htm Guyana
-http://www.nathnac.org/ds/c_pages/country_page_HT.htm Haiti
-http://www.nathnac.org/ds/c_pages/country_page_HN.htm Honduras
-http://www.nathnac.org/ds/c_pages/country_page_HK.htm HongKongChina
-http://www.nathnac.org/ds/c_pages/country_page_HU.htm Hungary
-http://www.nathnac.org/ds/c_pages/country_page_IS.htm Iceland
-http://www.nathnac.org/ds/c_pages/country_page_IN.htm India
-http://www.nathnac.org/ds/c_pages/country_page_IN_AN.htm IndiaAndamanandNicobarIslands
-http://www.nathnac.org/ds/c_pages/country_page_ID.htm Indonesia
-http://www.nathnac.org/ds/c_pages/country_page_ID_BORX.htm IndonesiaBorneo
-http://www.nathnac.org/ds/c_pages/country_page_IR.htm Iran
-http://www.nathnac.org/ds/c_pages/country_page_IQ.htm Iraq
-http://www.nathnac.org/ds/c_pages/country_page_IE.htm Ireland
-http://www.nathnac.org/ds/c_pages/country_page_IL.htm Israel
-http://www.nathnac.org/ds/c_pages/country_page_IT.htm Italy
-http://www.nathnac.org/ds/c_pages/country_page_CI.htm IvoryCoast
-http://www.nathnac.org/ds/c_pages/country_page_JM.htm Jamaica
-http://www.nathnac.org/ds/c_pages/country_page_SJ.htm JanMayenNorway
-http://www.nathnac.org/ds/c_pages/country_page_JP.htm Japan
-http://www.nathnac.org/ds/c_pages/country_page_JO.htm Jordan
-http://www.nathnac.org/ds/c_pages/country_page_KZ.htm Kazakhstan
-http://www.nathnac.org/ds/c_pages/country_page_KE.htm Kenya
-http://www.nathnac.org/ds/c_pages/country_page_KI.htm Kiribati
-http://www.nathnac.org/ds/c_pages/country_page_CS_KOSX.htm Kosovo
-http://www.nathnac.org/ds/c_pages/country_page_KW.htm Kuwait
-http://www.nathnac.org/ds/c_pages/country_page_KG.htm Kyrgyzstan
-http://www.nathnac.org/ds/c_pages/country_page_LA.htm Laos
-http://www.nathnac.org/ds/c_pages/country_page_LV.htm Latvia
-http://www.nathnac.org/ds/c_pages/country_page_LB.htm Lebanon
-http://www.nathnac.org/ds/c_pages/country_page_LS.htm Lesotho
-http://www.nathnac.org/ds/c_pages/country_page_LR.htm Liberia
-http://www.nathnac.org/ds/c_pages/country_page_LY.htm Libya
-http://www.nathnac.org/ds/c_pages/country_page_LI.htm Liechtenstein
-http://www.nathnac.org/ds/c_pages/country_page_LT.htm Lithuania
-http://www.nathnac.org/ds/c_pages/country_page_LU.htm Luxembourg
-http://www.nathnac.org/ds/c_pages/country_page_MO.htm MacaoChina
-http://www.nathnac.org/ds/c_pages/country_page_MK.htm Macedonia
-http://www.nathnac.org/ds/c_pages/country_page_MG.htm Madagascar
-http://www.nathnac.org/ds/c_pages/country_page_PT_MADX.htm MadeiraPortugal
-http://www.nathnac.org/ds/c_pages/country_page_MW.htm Malawi
-http://www.nathnac.org/ds/c_pages/country_page_MY.htm Malaysia
-http://www.nathnac.org/ds/c_pages/country_page_MY_BORX.htm MalaysiaBorneo
-http://www.nathnac.org/ds/c_pages/country_page_MV.htm Maldives
-http://www.nathnac.org/ds/c_pages/country_page_ML.htm Mali
-http://www.nathnac.org/ds/c_pages/country_page_MT.htm Malta
-http://www.nathnac.org/ds/c_pages/country_page_VE.htm MargaritaIslandVenezuela
-http://www.nathnac.org/ds/c_pages/country_page_MH.htm MarshallIslands
-http://www.nathnac.org/ds/c_pages/country_page_MQ.htm Martinique
-http://www.nathnac.org/ds/c_pages/country_page_MR.htm Mauritania
-http://www.nathnac.org/ds/c_pages/country_page_MU.htm Mauritius
-http://www.nathnac.org/ds/c_pages/country_page_YT.htm Mayotte
-http://www.nathnac.org/ds/c_pages/country_page_MX.htm Mexico
-http://www.nathnac.org/ds/c_pages/country_page_FM.htm Micronesia
-http://www.nathnac.org/ds/c_pages/country_page_MD.htm Moldova
-http://www.nathnac.org/ds/c_pages/country_page_MC.htm Monaco
-http://www.nathnac.org/ds/c_pages/country_page_MN.htm Mongolia
-http://www.nathnac.org/ds/c_pages/country_page_MOTX.htm Montenegro
-http://www.nathnac.org/ds/c_pages/country_page_MS.htm Montserrat
-http://www.nathnac.org/ds/c_pages/country_page_MA.htm Morocco
-http://www.nathnac.org/ds/c_pages/country_page_MZ.htm Mozambique
-http://www.nathnac.org/ds/c_pages/country_page_MM.htm Myanmar
-http://www.nathnac.org/ds/c_pages/country_page_NA.htm Namibia
-http://www.nathnac.org/ds/c_pages/country_page_NR.htm Nauru
-http://www.nathnac.org/ds/c_pages/country_page_NP.htm Nepal
-http://www.nathnac.org/ds/c_pages/country_page_NL.htm Netherlands
-http://www.nathnac.org/ds/c_pages/country_page_AN.htm NetherlandsAntilles
-http://www.nathnac.org/ds/c_pages/country_page_NC.htm NewCaledonia
-http://www.nathnac.org/ds/c_pages/country_page_NZ.htm NewZealand
-http://www.nathnac.org/ds/c_pages/country_page_NI.htm Nicaragua
-http://www.nathnac.org/ds/c_pages/country_page_NE.htm Niger
-http://www.nathnac.org/ds/c_pages/country_page_NG.htm Nigeria
-http://www.nathnac.org/ds/c_pages/country_page_NU.htm Niue
-http://www.nathnac.org/ds/c_pages/country_page_KP.htm NorthKorea
-http://www.nathnac.org/ds/c_pages/country_page_MP.htm NorthernMarianaIslands
-http://www.nathnac.org/ds/c_pages/country_page_NO.htm Norway
-http://www.nathnac.org/ds/c_pages/country_page_SJ.htm NorwaySvalbardandJanMayen
-http://www.nathnac.org/ds/c_pages/country_page_OM.htm Oman
-http://www.nathnac.org/ds/c_pages/country_page_PK.htm Pakistan
-http://www.nathnac.org/ds/c_pages/country_page_PW.htm Palau
-http://www.nathnac.org/ds/c_pages/country_page_PS.htm PalestinianAutonomousTerritories
-http://www.nathnac.org/ds/c_pages/country_page_PA.htm Panama
-http://www.nathnac.org/ds/c_pages/country_page_PG.htm PapuaNewGuinea
-http://www.nathnac.org/ds/c_pages/country_page_PY.htm Paraguay
-http://www.nathnac.org/ds/c_pages/country_page_PE.htm Peru
-http://www.nathnac.org/ds/c_pages/country_page_PH.htm Philippines
-http://www.nathnac.org/ds/c_pages/country_page_GB_PITX.htm PitcairnIslands
-http://www.nathnac.org/ds/c_pages/country_page_PL.htm Poland
-http://www.nathnac.org/ds/c_pages/country_page_PT.htm Portugal
-http://www.nathnac.org/ds/c_pages/country_page_PT_AZOX.htm PortugalAzores
-http://www.nathnac.org/ds/c_pages/country_page_PT_MADX.htm PortugalMadeira
-http://www.nathnac.org/ds/c_pages/country_page_PR.htm PuertoRico
-http://www.nathnac.org/ds/c_pages/country_page_QA.htm Qatar
-http://www.nathnac.org/ds/c_pages/country_page_KR.htm RepublicofKorea
-http://www.nathnac.org/ds/c_pages/country_page_RE.htm Reunion
-http://www.nathnac.org/ds/c_pages/country_page_RO.htm Romania
-http://www.nathnac.org/ds/c_pages/country_page_RU.htm Russia
-http://www.nathnac.org/ds/c_pages/country_page_RW.htm Rwanda
-http://www.nathnac.org/ds/c_pages/country_page_SH.htm SaintHelena
-http://www.nathnac.org/ds/c_pages/country_page_KN.htm SaintKittsandNevis
-http://www.nathnac.org/ds/c_pages/country_page_LC.htm SaintLucia
-http://www.nathnac.org/ds/c_pages/country_page_AN.htm SintMaartenNetherlandsAntilles
-http://www.nathnac.org/ds/c_pages/country_page_PM.htm SaintPierreandMiquelon
-http://www.nathnac.org/ds/c_pages/country_page_VC.htm SaintVincentandtheGrenadines
-http://www.nathnac.org/ds/c_pages/country_page_WS.htm Samoa
-http://www.nathnac.org/ds/c_pages/country_page_SM.htm SanMarino
-http://www.nathnac.org/ds/c_pages/country_page_ST.htm SaoTomeandPrincipe
-http://www.nathnac.org/ds/c_pages/country_page_SA.htm SaudiArabia
-http://www.nathnac.org/ds/c_pages/country_page_SN.htm Senegal
-http://www.nathnac.org/ds/c_pages/country_page_CS.htm Serbia
-http://www.nathnac.org/ds/c_pages/country_page_SC.htm Seychelles
-http://www.nathnac.org/ds/c_pages/country_page_SL.htm SierraLeone
-http://www.nathnac.org/ds/c_pages/country_page_SG.htm Singapore
-http://www.nathnac.org/ds/c_pages/country_page_SK.htm Slovakia
-http://www.nathnac.org/ds/c_pages/country_page_SI.htm Slovenia
-http://www.nathnac.org/ds/c_pages/country_page_SB.htm SolomonIslands
-http://www.nathnac.org/ds/c_pages/country_page_SO.htm Somalia
-http://www.nathnac.org/ds/c_pages/country_page_ZA.htm SouthAfrica
-http://www.nathnac.org/ds/c_pages/country_page_KR.htm SouthKorea
-http://www.nathnac.org/ds/c_pages/country_page_SD_S.htm SouthSudan
-http://www.nathnac.org/ds/c_pages/country_page_ES.htm Spain
-http://www.nathnac.org/ds/c_pages/country_page_ES_PM.htm SpainBalearicIslands
-http://www.nathnac.org/ds/c_pages/country_page_ES_CANX.htm SpainCanaryIslands
-http://www.nathnac.org/ds/c_pages/country_page_LK.htm SriLanka
-http://www.nathnac.org/ds/c_pages/country_page_SD.htm Sudan
-http://www.nathnac.org/ds/c_pages/country_page_SR.htm Suriname
-http://www.nathnac.org/ds/c_pages/country_page_SJ.htm SvalbardandJanMayenNorway
-http://www.nathnac.org/ds/c_pages/country_page_SZ.htm Swaziland
-http://www.nathnac.org/ds/c_pages/country_page_SE.htm Sweden
-http://www.nathnac.org/ds/c_pages/country_page_CH.htm Switzerland
-http://www.nathnac.org/ds/c_pages/country_page_SY.htm Syria
-http://www.nathnac.org/ds/c_pages/country_page_PF.htm TahitiFrenchPolynesia
-http://www.nathnac.org/ds/c_pages/country_page_TW.htm Taiwan
-http://www.nathnac.org/ds/c_pages/country_page_TJ.htm Tajikistan
-http://www.nathnac.org/ds/c_pages/country_page_TZ.htm Tanzania
-http://www.nathnac.org/ds/c_pages/country_page_TH.htm Thailand
-http://www.nathnac.org/ds/c_pages/country_page_TIBX.htm TibetChina
-http://www.nathnac.org/ds/c_pages/country_page_TL.htm TimorLeste
-http://www.nathnac.org/ds/c_pages/country_page_TG.htm Togo
-http://www.nathnac.org/ds/c_pages/country_page_TK.htm Tokelau
-http://www.nathnac.org/ds/c_pages/country_page_TO.htm Tonga
-http://www.nathnac.org/ds/c_pages/country_page_TT.htm TrinidadandTobago
-http://www.nathnac.org/ds/c_pages/country_page_SH.htm TristandeCunha
-http://www.nathnac.org/ds/c_pages/country_page_TN.htm Tunisia
-http://www.nathnac.org/ds/c_pages/country_page_TR.htm Turkey
-http://www.nathnac.org/ds/c_pages/country_page_TM.htm Turkmenistan
-http://www.nathnac.org/ds/c_pages/country_page_TC.htm TurksandCaicosIslands
-http://www.nathnac.org/ds/c_pages/country_page_TV.htm Tuvalu
-http://www.nathnac.org/ds/c_pages/country_page_AE.htm UnitedArabEmirates
-http://www.nathnac.org/ds/c_pages/country_page_UG.htm Uganda
-http://www.nathnac.org/ds/c_pages/country_page_UA.htm Ukraine
-http://www.nathnac.org/ds/c_pages/country_page_GB.htm UnitedKingdom
-http://www.nathnac.org/ds/c_pages/country_page_UY.htm Uruguay
-http://www.nathnac.org/ds/c_pages/country_page_US.htm UnitedStates
-http://www.nathnac.org/ds/c_pages/country_page_UZ.htm Uzbekistan
-http://www.nathnac.org/ds/c_pages/country_page_VU.htm Vanuatu
-http://www.nathnac.org/ds/c_pages/country_page_VE.htm Venezuela
-http://www.nathnac.org/ds/c_pages/country_page_VN.htm VietNam
-http://www.nathnac.org/ds/c_pages/country_page_GB_VIRX.htm VirginIslandsBritish
-http://www.nathnac.org/ds/c_pages/country_page_VI.htm VirginIslandsUSA
-http://www.nathnac.org/ds/c_pages/country_page_UM.htm WakeIslandandtheUSPacificIslands
-http://www.nathnac.org/ds/c_pages/country_page_WF.htm WallisandFutunaIslands
-http://www.nathnac.org/ds/c_pages/country_page_EH.htm WesternSahara
-http://www.nathnac.org/ds/c_pages/country_page_YE.htm Yemen
-http://www.nathnac.org/ds/c_pages/country_page_ZM.htm Zambia
-http://www.nathnac.org/ds/c_pages/country_page_TZ.htm ZanzibarTanzania
-http://www.nathnac.org/ds/c_pages/country_page_ZW.htm Zimbabwe
+http://travelhealthpro.org.uk/locations/afghanistan/ Afghanistan
+http://travelhealthpro.org.uk/locations/albania/ Albania
+http://travelhealthpro.org.uk/locations/algeria/ Algeria
+http://travelhealthpro.org.uk/locations/americansamoa/ American Samoa
+http://travelhealthpro.org.uk/locations/andamanandnicobarislands/ Andaman & Nicobar Islands (India)
+http://travelhealthpro.org.uk/locations/andorra/ Andorra
+http://travelhealthpro.org.uk/locations/angola/ Angola
+http://travelhealthpro.org.uk/locations/anguilla/ Anguilla
+http://travelhealthpro.org.uk/locations/antarctica/ Antarctica
+http://travelhealthpro.org.uk/locations/antiguaandbarbuda/ Antigua and Barbuda
+http://travelhealthpro.org.uk/locations/argentina/ Argentina
+http://travelhealthpro.org.uk/locations/armenia/ Armenia
+http://travelhealthpro.org.uk/locations/caribbnetherlands/ Aruba
+http://travelhealthpro.org.uk/locations/ascension/ Ascension Island (St Helena, Tristan da Cunha)
+http://travelhealthpro.org.uk/locations/christmas-island/ Australia (Christmas Island)
+http://travelhealthpro.org.uk/locations/australia/ Australia
+http://travelhealthpro.org.uk/locations/austria/ Austria
+http://travelhealthpro.org.uk/locations/azerbaijan/ Azerbaijan
+http://travelhealthpro.org.uk/locations/azoresportugal/ Azores (Portugal)
+http://travelhealthpro.org.uk/locations/bahamas/ Bahamas
+http://travelhealthpro.org.uk/locations/bahrain/ Bahrain
+http://travelhealthpro.org.uk/locations/balearicislandsspain/ Balearic Islands (Spain)
+http://travelhealthpro.org.uk/locations/indonesia/ Bali (Indonesia)
+http://travelhealthpro.org.uk/locations/bangladesh/ Bangladesh
+http://travelhealthpro.org.uk/locations/barbados/ Barbados
+http://travelhealthpro.org.uk/locations/belarus/ Belarus
+http://travelhealthpro.org.uk/locations/belgium/ Belgium
+http://travelhealthpro.org.uk/locations/belize/ Belize
+http://travelhealthpro.org.uk/locations/benin/ Benin
+http://travelhealthpro.org.uk/locations/bermuda/ Bermuda
+http://travelhealthpro.org.uk/locations/bhutan/ Bhutan
+http://travelhealthpro.org.uk/locations/bolivia/ Bolivia
+http://travelhealthpro.org.uk/locations/borneoindonesia/ Borneo (Indonesia)
+http://travelhealthpro.org.uk/locations/malaysiaborneo/ Borneo (Malaysia)
+http://travelhealthpro.org.uk/locations/bosniaandherzegovina/ Bosnia and Herzegovina
+http://travelhealthpro.org.uk/locations/botswana/ Botswana
+http://travelhealthpro.org.uk/locations/brazil/ Brazil
+http://travelhealthpro.org.uk/locations/britishvirginislands/ British Virgin Islands
+http://travelhealthpro.org.uk/locations/bruneidarussalam/ Brunei
+http://travelhealthpro.org.uk/locations/bulgaria/ Bulgaria
+http://travelhealthpro.org.uk/locations/burkinafaso/ Burkina Faso
+http://travelhealthpro.org.uk/locations/myanmar/ Burma (Myanmar)
+http://travelhealthpro.org.uk/locations/burundi/ Burundi
+http://travelhealthpro.org.uk/locations/cambodia/ Cambodia
+http://travelhealthpro.org.uk/locations/cameroon/ Cameroon
+http://travelhealthpro.org.uk/locations/canada/ Canada
+http://travelhealthpro.org.uk/locations/canaryislandsspain/ Canary Islands (Spain)
+http://travelhealthpro.org.uk/locations/capeverde/ Cape Verde
+http://travelhealthpro.org.uk/locations/caribbnetherlands/ Caribbean Islands (Netherlands)
+http://travelhealthpro.org.uk/locations/caymanislands/ Cayman Islands
+http://travelhealthpro.org.uk/locations/centralafricanrepublic/ Central African Republic
+http://travelhealthpro.org.uk/locations/chad/ Chad
+http://travelhealthpro.org.uk/locations/chileeasterisland/ Chile (Easter Island)
+http://travelhealthpro.org.uk/locations/chile/ Chile
+http://travelhealthpro.org.uk/locations/chinahongkong/ China (Hong Kong)
+http://travelhealthpro.org.uk/locations/chinamacao/ China (Macao)
+http://travelhealthpro.org.uk/locations/chinatibet/ China (Tibet)
+http://travelhealthpro.org.uk/locations/china/ China
+http://travelhealthpro.org.uk/locations/christmas-island/ Christmas Island (Australia)
+http://travelhealthpro.org.uk/locations/colombia/ Colombia
+http://travelhealthpro.org.uk/locations/comoros/ Comoros
+http://travelhealthpro.org.uk/locations/congo/ Congo
+http://travelhealthpro.org.uk/locations/cookislands/ Cook Islands
+http://travelhealthpro.org.uk/locations/costarica/ Costa Rica
+http://travelhealthpro.org.uk/locations/croatia/ Croatia
+http://travelhealthpro.org.uk/locations/cuba/ Cuba
+http://travelhealthpro.org.uk/locations/cyprus/ Cyprus
+http://travelhealthpro.org.uk/locations/czechrepublic/ Czech Republic
+http://travelhealthpro.org.uk/locations/ivorycoast/ Côte d'Ivoire (Ivory Coast)
+http://travelhealthpro.org.uk/locations/drcongo/ Democratic Republic of the Congo
+http://travelhealthpro.org.uk/locations/faroeislandsdenmark/ Denmark (Faroe Islands)
+http://travelhealthpro.org.uk/locations/denmark/ Denmark
+http://travelhealthpro.org.uk/locations/djibouti/ Djibouti
+http://travelhealthpro.org.uk/locations/dominica/ Dominica
+http://travelhealthpro.org.uk/locations/dominicanrepublic/ Dominican Republic
+http://travelhealthpro.org.uk/locations/easttimor/ East Timor (Timor-Leste)
+http://travelhealthpro.org.uk/locations/chileeasterisland/ Easter Island (Chile)
+http://travelhealthpro.org.uk/locations/ecuadorgalapagos/ Ecuador (Galapagos)
+http://travelhealthpro.org.uk/locations/ecuador/ Ecuador
+http://travelhealthpro.org.uk/locations/egypt/ Egypt
+http://travelhealthpro.org.uk/locations/elsalvador/ El Salvador
+http://travelhealthpro.org.uk/locations/equatorialguinea/ Equatorial Guinea
+http://travelhealthpro.org.uk/locations/eritrea/ Eritrea
+http://travelhealthpro.org.uk/locations/estonia/ Estonia
+http://travelhealthpro.org.uk/locations/ethiopia/ Ethiopia
+http://travelhealthpro.org.uk/locations/falklandislands/ Falkland Islands
+http://travelhealthpro.org.uk/locations/faroeislandsdenmark/ Faroe Islands (Denmark)
+http://travelhealthpro.org.uk/locations/fiji/ Fiji
+http://travelhealthpro.org.uk/locations/finland/ Finland
+http://travelhealthpro.org.uk/locations/france/ France
+http://travelhealthpro.org.uk/locations/frenchguiana/ French Guiana
+http://travelhealthpro.org.uk/locations/frenchpolynesia/ French Polynesia (Including Tahiti)
+http://travelhealthpro.org.uk/locations/gabon/ Gabon
+http://travelhealthpro.org.uk/locations/ecuadorgalapagos/ Galapagos (Ecuador)
+http://travelhealthpro.org.uk/locations/gambia/ Gambia
+http://travelhealthpro.org.uk/locations/georgiacountry/ Georgia
+http://travelhealthpro.org.uk/locations/germany/ Germany
+http://travelhealthpro.org.uk/locations/ghana/ Ghana
+http://travelhealthpro.org.uk/locations/gibraltar/ Gibraltar
+http://travelhealthpro.org.uk/locations/greece/ Greece
+http://travelhealthpro.org.uk/locations/greenland/ Greenland
+http://travelhealthpro.org.uk/locations/grenada/ Grenada
+http://travelhealthpro.org.uk/locations/guadeloupe/ Guadeloupe
+http://travelhealthpro.org.uk/locations/guam/ Guam
+http://travelhealthpro.org.uk/locations/guatemala/ Guatemala
+http://travelhealthpro.org.uk/locations/guinea-bissau/ Guinea-Bissau
+http://travelhealthpro.org.uk/locations/guinea/ Guinea
+http://travelhealthpro.org.uk/locations/guyana/ Guyana
+http://travelhealthpro.org.uk/locations/haiti/ Haiti
+http://travelhealthpro.org.uk/locations/honduras/ Honduras
+http://travelhealthpro.org.uk/locations/chinahongkong/ Hong Kong (China)
+http://travelhealthpro.org.uk/locations/hungary/ Hungary
+http://travelhealthpro.org.uk/locations/iceland/ Iceland
+http://travelhealthpro.org.uk/locations/andamanandnicobarislands/ India (Andaman and Nicobar Islands)
+http://travelhealthpro.org.uk/locations/india/ India
+http://travelhealthpro.org.uk/locations/borneoindonesia/ Indonesia (Borneo)
+http://travelhealthpro.org.uk/locations/indonesia/ Indonesia (including Bali)
+http://travelhealthpro.org.uk/locations/iran/ Iran
+http://travelhealthpro.org.uk/locations/iraq/ Iraq
+http://travelhealthpro.org.uk/locations/ireland/ Ireland
+http://travelhealthpro.org.uk/locations/israel/ Israel
+http://travelhealthpro.org.uk/locations/italy/ Italy
+http://travelhealthpro.org.uk/locations/ivorycoast/ Ivory Coast
+http://travelhealthpro.org.uk/locations/jamaica/ Jamaica
+http://travelhealthpro.org.uk/locations/japan/ Japan
+http://travelhealthpro.org.uk/locations/jordan/ Jordan
+http://travelhealthpro.org.uk/locations/kazakhstan/ Kazakhstan
+http://travelhealthpro.org.uk/locations/kenya/ Kenya
+http://travelhealthpro.org.uk/locations/kiribati/ Kiribati
+http://travelhealthpro.org.uk/locations/democratic-peoples-republicofkorea/ Korea (North)
+http://travelhealthpro.org.uk/locations/southkorea/ Korea (South)
+http://travelhealthpro.org.uk/locations/kosovo/ Kosovo
+http://travelhealthpro.org.uk/locations/kuwait/ Kuwait
+http://travelhealthpro.org.uk/locations/kyrgyzstan/ Kyrgyzstan
+http://travelhealthpro.org.uk/locations/laos/ Laos
+http://travelhealthpro.org.uk/locations/latvia/ Latvia
+http://travelhealthpro.org.uk/locations/lebanon/ Lebanon
+http://travelhealthpro.org.uk/locations/lesotho/ Lesotho
+http://travelhealthpro.org.uk/locations/liberia/ Liberia
+http://travelhealthpro.org.uk/locations/libya/ Libya
+http://travelhealthpro.org.uk/locations/liechtenstein/ Liechtenstein
+http://travelhealthpro.org.uk/locations/lithuania/ Lithuania
+http://travelhealthpro.org.uk/locations/luxembourg/ Luxembourg
+http://travelhealthpro.org.uk/locations/chinamacao/ Macao (China)
+http://travelhealthpro.org.uk/locations/macedonia/ Macedonia
+http://travelhealthpro.org.uk/locations/madagascar/ Madagascar
+http://travelhealthpro.org.uk/locations/madeiraportugal/ Madeira (Portugal)
+http://travelhealthpro.org.uk/locations/malawi/ Malawi
+http://travelhealthpro.org.uk/locations/malaysiaborneo/ Malaysia (Borneo)
+http://travelhealthpro.org.uk/locations/malaysia/ Malaysia
+http://travelhealthpro.org.uk/locations/maldives/ Maldives
+http://travelhealthpro.org.uk/locations/mali/ Mali
+http://travelhealthpro.org.uk/locations/malta/ Malta
+http://travelhealthpro.org.uk/locations/venezuela/ Margarita Island (Venezuela)
+http://travelhealthpro.org.uk/locations/marshallislands/ Marshall Islands
+http://travelhealthpro.org.uk/locations/martinique/ Martinique
+http://travelhealthpro.org.uk/locations/mauritania/ Mauritania
+http://travelhealthpro.org.uk/locations/mauritius/ Mauritius
+http://travelhealthpro.org.uk/locations/mayotte/ Mayotte
+http://travelhealthpro.org.uk/locations/mexico/ Mexico
+http://travelhealthpro.org.uk/locations/micronesia/ Micronesia
+http://travelhealthpro.org.uk/locations/moldova/ Moldova
+http://travelhealthpro.org.uk/locations/monaco/ Monaco
+http://travelhealthpro.org.uk/locations/mongolia/ Mongolia
+http://travelhealthpro.org.uk/locations/montenegro/ Montenegro
+http://travelhealthpro.org.uk/locations/montserrat/ Montserrat
+http://travelhealthpro.org.uk/locations/morocco/ Morocco
+http://travelhealthpro.org.uk/locations/mozambique/ Mozambique
+http://travelhealthpro.org.uk/locations/myanmar/ Myanmar (Burma)
+http://travelhealthpro.org.uk/locations/namibia/ Namibia
+http://travelhealthpro.org.uk/locations/nauru/ Nauru
+http://travelhealthpro.org.uk/locations/nepal/ Nepal
+http://travelhealthpro.org.uk/locations/caribbnetherlands/ Netherlands (Caribbean Islands)
+http://travelhealthpro.org.uk/locations/netherlands/ Netherlands
+http://travelhealthpro.org.uk/locations/newcaledonia/ New Caledonia
+http://travelhealthpro.org.uk/locations/newzealand/ New Zealand
+http://travelhealthpro.org.uk/locations/nicaragua/ Nicaragua
+http://travelhealthpro.org.uk/locations/niger/ Niger
+http://travelhealthpro.org.uk/locations/nigeria/ Nigeria
+http://travelhealthpro.org.uk/locations/niue/ Niue
+http://travelhealthpro.org.uk/locations/democratic-peoples-republicofkorea/ North Korea
+http://travelhealthpro.org.uk/locations/northernmarianaislands/ Northern Mariana Islands
+http://travelhealthpro.org.uk/locations/norwaysvalbardandjanmayen/ Norway (Svalbard and Jan Mayen)
+http://travelhealthpro.org.uk/locations/norway/ Norway
+http://travelhealthpro.org.uk/locations/oman/ Oman
+http://travelhealthpro.org.uk/locations/pakistan/ Pakistan
+http://travelhealthpro.org.uk/locations/palau/ Palau
+http://travelhealthpro.org.uk/locations/palestinianterritories/ Palestinian Territories
+http://travelhealthpro.org.uk/locations/panama/ Panama
+http://travelhealthpro.org.uk/locations/papuanewguinea/ Papua New Guinea
+http://travelhealthpro.org.uk/locations/paraguay/ Paraguay
+http://travelhealthpro.org.uk/locations/peru/ Peru
+http://travelhealthpro.org.uk/locations/philippines/ Philippines
+http://travelhealthpro.org.uk/locations/pitcairnislands/ Pitcairn Islands
+http://travelhealthpro.org.uk/locations/poland/ Poland
+http://travelhealthpro.org.uk/locations/azoresportugal/ Portugal (Azores)
+http://travelhealthpro.org.uk/locations/madeiraportugal/ Portugal (Madeira)
+http://travelhealthpro.org.uk/locations/portugal/ Portugal
+http://travelhealthpro.org.uk/locations/puertorico/ Puerto Rico
+http://travelhealthpro.org.uk/locations/qatar/ Qatar
+http://travelhealthpro.org.uk/locations/reunion/ Reunion
+http://travelhealthpro.org.uk/locations/romania/ Romania
+http://travelhealthpro.org.uk/locations/russia/ Russia
+http://travelhealthpro.org.uk/locations/rwanda/ Rwanda
+http://travelhealthpro.org.uk/locations/samoa/ Samoa
+http://travelhealthpro.org.uk/locations/sanmarino/ San Marino
+http://travelhealthpro.org.uk/locations/saotomeandprincipe/ Sao Tome and Principe
+http://travelhealthpro.org.uk/locations/saudiarabia/ Saudi Arabia
+http://travelhealthpro.org.uk/locations/senegal/ Senegal
+http://travelhealthpro.org.uk/locations/serbia/ Serbia
+http://travelhealthpro.org.uk/locations/seychelles/ Seychelles
+http://travelhealthpro.org.uk/locations/sierraleone/ Sierra Leone
+http://travelhealthpro.org.uk/locations/singapore/ Singapore
+http://travelhealthpro.org.uk/locations/slovakia/ Slovakia
+http://travelhealthpro.org.uk/locations/slovenia/ Slovenia
+http://travelhealthpro.org.uk/locations/solomonislands/ Solomon Islands
+http://travelhealthpro.org.uk/locations/somalia/ Somalia
+http://travelhealthpro.org.uk/locations/southafrica/ South Africa
+http://travelhealthpro.org.uk/locations/southkorea/ South Korea
+http://travelhealthpro.org.uk/locations/southsudan/ South Sudan
+http://travelhealthpro.org.uk/locations/balearicislandsspain/ Spain (Balearic Islands)
+http://travelhealthpro.org.uk/locations/canaryislandsspain/ Spain (Canary Islands)
+http://travelhealthpro.org.uk/locations/spain/ Spain
+http://travelhealthpro.org.uk/locations/srilanka/ Sri Lanka
+http://travelhealthpro.org.uk/locations/ascension/ St Helena (Ascension, Tristan da Cunha)
+http://travelhealthpro.org.uk/locations/saintkittsandnevis/ St Kitts and Nevis
+http://travelhealthpro.org.uk/locations/saintlucia/ St Lucia
+http://travelhealthpro.org.uk/locations/saintpierreandmiquelon/ St Pierre and Miquelon
+http://travelhealthpro.org.uk/locations/saintvincentandthegrenadines/ St Vincent and the Grenadines
+http://travelhealthpro.org.uk/locations/sudan/ Sudan
+http://travelhealthpro.org.uk/locations/suriname/ Suriname
+http://travelhealthpro.org.uk/locations/norwaysvalbardandjanmayen/ Svalbard and Jan Mayen (Norway)
+http://travelhealthpro.org.uk/locations/swaziland/ Swaziland
+http://travelhealthpro.org.uk/locations/sweden/ Sweden
+http://travelhealthpro.org.uk/locations/switzerland/ Switzerland
+http://travelhealthpro.org.uk/locations/syria/ Syria
+http://travelhealthpro.org.uk/locations/frenchpolynesia/ Tahiti (French Polynesia)
+http://travelhealthpro.org.uk/locations/taiwan/ Taiwan
+http://travelhealthpro.org.uk/locations/tajikistan/ Tajikistan
+http://travelhealthpro.org.uk/locations/tanzania/ Tanzania (Including Zanzibar)
+http://travelhealthpro.org.uk/locations/thailand/ Thailand
+http://travelhealthpro.org.uk/locations/chinatibet/ Tibet (China)
+http://travelhealthpro.org.uk/locations/easttimor/ Timor-Leste (East Timor)
+http://travelhealthpro.org.uk/locations/togo/ Togo
+http://travelhealthpro.org.uk/locations/tokelau/ Tokelau
+http://travelhealthpro.org.uk/locations/tonga/ Tonga
+http://travelhealthpro.org.uk/locations/trinidadandtobago/ Trinidad and Tobago
+http://travelhealthpro.org.uk/locations/ascension/ Tristan da Cunha (Ascension Island, St Helena)
+http://travelhealthpro.org.uk/locations/tunisia/ Tunisia
+http://travelhealthpro.org.uk/locations/turkey/ Turkey
+http://travelhealthpro.org.uk/locations/turkmenistan/ Turkmenistan
+http://travelhealthpro.org.uk/locations/turksandcaicosislands/ Turks and Caicos Islands
+http://travelhealthpro.org.uk/locations/tuvalu/ Tuvalu
+http://travelhealthpro.org.uk/locations/virginislandsusa/ USA Virgin Islands
+http://travelhealthpro.org.uk/locations/uganda/ Uganda
+http://travelhealthpro.org.uk/locations/ukraine/ Ukraine
+http://travelhealthpro.org.uk/locations/unitedarabemirates/ United Arab Emirates
+http://travelhealthpro.org.uk/locations/unitedkingdom/ United Kingdom
+http://travelhealthpro.org.uk/locations/unitedstates/ United States
+http://travelhealthpro.org.uk/locations/uruguay/ Uruguay
+http://travelhealthpro.org.uk/locations/uzbekistan/ Uzbekistan
+http://travelhealthpro.org.uk/locations/vanuatu/ Vanuatu
+http://travelhealthpro.org.uk/locations/venezuela/ Venezuela
+http://travelhealthpro.org.uk/locations/vietnam/ Vietnam
+http://travelhealthpro.org.uk/locations/britishvirginislands/ Virgin Islands (British)
+http://travelhealthpro.org.uk/locations/virginislandsusa/ Virgin Islands (USA)
+http://travelhealthpro.org.uk/locations/wakeisland/ Wake Island
+http://travelhealthpro.org.uk/locations/wallisandfutunaislands/ Wallis and Futuna Islands
+http://travelhealthpro.org.uk/locations/westernsahara/ Western Sahara
+http://travelhealthpro.org.uk/locations/yemen/ Yemen
+http://travelhealthpro.org.uk/locations/zambia/ Zambia
+http://travelhealthpro.org.uk/locations/tanzania/ Zanzibar (Tanzania)
+http://travelhealthpro.org.uk/locations/zimbabwe/ Zimbabwe
