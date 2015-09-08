@@ -1,26 +1,26 @@
 http://travelhealthpro.org.uk/locations/afghanistan/ Afghanistan
 http://travelhealthpro.org.uk/locations/albania/ Albania
 http://travelhealthpro.org.uk/locations/algeria/ Algeria
-http://travelhealthpro.org.uk/locations/americansamoa/ American Samoa
-http://travelhealthpro.org.uk/locations/andamanandnicobarislands/ Andaman & Nicobar Islands (India)
+http://travelhealthpro.org.uk/locations/americansamoa/ AmericanSamoa
+http://travelhealthpro.org.uk/locations/andamanandnicobarislands/ AndamanNicobarIslands-India
 http://travelhealthpro.org.uk/locations/andorra/ Andorra
 http://travelhealthpro.org.uk/locations/angola/ Angola
 http://travelhealthpro.org.uk/locations/anguilla/ Anguilla
 http://travelhealthpro.org.uk/locations/antarctica/ Antarctica
-http://travelhealthpro.org.uk/locations/antiguaandbarbuda/ Antigua and Barbuda
+http://travelhealthpro.org.uk/locations/antiguaandbarbuda/ AntiguaBarbuda
 http://travelhealthpro.org.uk/locations/argentina/ Argentina
 http://travelhealthpro.org.uk/locations/armenia/ Armenia
 http://travelhealthpro.org.uk/locations/caribbnetherlands/ Aruba
-http://travelhealthpro.org.uk/locations/ascension/ Ascension Island (St Helena, Tristan da Cunha)
-http://travelhealthpro.org.uk/locations/christmas-island/ Australia (Christmas Island)
+http://travelhealthpro.org.uk/locations/ascension/ AscensionIsland-StHelenaTristandaCunha
+http://travelhealthpro.org.uk/locations/christmas-island/ Australia-ChristmasIsland
 http://travelhealthpro.org.uk/locations/australia/ Australia
 http://travelhealthpro.org.uk/locations/austria/ Austria
 http://travelhealthpro.org.uk/locations/azerbaijan/ Azerbaijan
-http://travelhealthpro.org.uk/locations/azoresportugal/ Azores (Portugal)
+http://travelhealthpro.org.uk/locations/azoresportugal/ Azores-Portugal
 http://travelhealthpro.org.uk/locations/bahamas/ Bahamas
 http://travelhealthpro.org.uk/locations/bahrain/ Bahrain
-http://travelhealthpro.org.uk/locations/balearicislandsspain/ Balearic Islands (Spain)
-http://travelhealthpro.org.uk/locations/indonesia/ Bali (Indonesia)
+http://travelhealthpro.org.uk/locations/balearicislandsspain/ BalearicIslands-Spain
+http://travelhealthpro.org.uk/locations/indonesia/ Bali-Indonesia
 http://travelhealthpro.org.uk/locations/bangladesh/ Bangladesh
 http://travelhealthpro.org.uk/locations/barbados/ Barbados
 http://travelhealthpro.org.uk/locations/belarus/ Belarus
@@ -30,68 +30,68 @@ http://travelhealthpro.org.uk/locations/benin/ Benin
 http://travelhealthpro.org.uk/locations/bermuda/ Bermuda
 http://travelhealthpro.org.uk/locations/bhutan/ Bhutan
 http://travelhealthpro.org.uk/locations/bolivia/ Bolivia
-http://travelhealthpro.org.uk/locations/borneoindonesia/ Borneo (Indonesia)
-http://travelhealthpro.org.uk/locations/malaysiaborneo/ Borneo (Malaysia)
-http://travelhealthpro.org.uk/locations/bosniaandherzegovina/ Bosnia and Herzegovina
+http://travelhealthpro.org.uk/locations/borneoindonesia/ Borneo-Indonesia
+http://travelhealthpro.org.uk/locations/malaysiaborneo/ Borneo-Malaysia
+http://travelhealthpro.org.uk/locations/bosniaandherzegovina/ BosniaHerzegovina
 http://travelhealthpro.org.uk/locations/botswana/ Botswana
 http://travelhealthpro.org.uk/locations/brazil/ Brazil
-http://travelhealthpro.org.uk/locations/britishvirginislands/ British Virgin Islands
+http://travelhealthpro.org.uk/locations/britishvirginislands/ BritishVirginIslands
 http://travelhealthpro.org.uk/locations/bruneidarussalam/ Brunei
 http://travelhealthpro.org.uk/locations/bulgaria/ Bulgaria
-http://travelhealthpro.org.uk/locations/burkinafaso/ Burkina Faso
-http://travelhealthpro.org.uk/locations/myanmar/ Burma (Myanmar)
+http://travelhealthpro.org.uk/locations/burkinafaso/ BurkinaFaso
+http://travelhealthpro.org.uk/locations/myanmar/ Burma-Myanmar
 http://travelhealthpro.org.uk/locations/burundi/ Burundi
 http://travelhealthpro.org.uk/locations/cambodia/ Cambodia
 http://travelhealthpro.org.uk/locations/cameroon/ Cameroon
 http://travelhealthpro.org.uk/locations/canada/ Canada
-http://travelhealthpro.org.uk/locations/canaryislandsspain/ Canary Islands (Spain)
-http://travelhealthpro.org.uk/locations/capeverde/ Cape Verde
-http://travelhealthpro.org.uk/locations/caribbnetherlands/ Caribbean Islands (Netherlands)
-http://travelhealthpro.org.uk/locations/caymanislands/ Cayman Islands
-http://travelhealthpro.org.uk/locations/centralafricanrepublic/ Central African Republic
+http://travelhealthpro.org.uk/locations/canaryislandsspain/ CanaryIslands-Spain
+http://travelhealthpro.org.uk/locations/capeverde/ CapeVerde
+http://travelhealthpro.org.uk/locations/caribbnetherlands/ CaribbeanIslands-Netherlands
+http://travelhealthpro.org.uk/locations/caymanislands/ CaymanIslands
+http://travelhealthpro.org.uk/locations/centralafricanrepublic/ CentralAfricanRepublic
 http://travelhealthpro.org.uk/locations/chad/ Chad
-http://travelhealthpro.org.uk/locations/chileeasterisland/ Chile (Easter Island)
+http://travelhealthpro.org.uk/locations/chileeasterisland/ Chile-EasterIsland
 http://travelhealthpro.org.uk/locations/chile/ Chile
-http://travelhealthpro.org.uk/locations/chinahongkong/ China (Hong Kong)
-http://travelhealthpro.org.uk/locations/chinamacao/ China (Macao)
-http://travelhealthpro.org.uk/locations/chinatibet/ China (Tibet)
+http://travelhealthpro.org.uk/locations/chinahongkong/ China-HongKong
+http://travelhealthpro.org.uk/locations/chinamacao/ China-Macao
+http://travelhealthpro.org.uk/locations/chinatibet/ China-Tibet
 http://travelhealthpro.org.uk/locations/china/ China
-http://travelhealthpro.org.uk/locations/christmas-island/ Christmas Island (Australia)
+http://travelhealthpro.org.uk/locations/christmas-island/ ChristmasIsland-Australia
 http://travelhealthpro.org.uk/locations/colombia/ Colombia
 http://travelhealthpro.org.uk/locations/comoros/ Comoros
 http://travelhealthpro.org.uk/locations/congo/ Congo
-http://travelhealthpro.org.uk/locations/cookislands/ Cook Islands
-http://travelhealthpro.org.uk/locations/costarica/ Costa Rica
+http://travelhealthpro.org.uk/locations/cookislands/ CookIslands
+http://travelhealthpro.org.uk/locations/costarica/ CostaRica
 http://travelhealthpro.org.uk/locations/croatia/ Croatia
 http://travelhealthpro.org.uk/locations/cuba/ Cuba
 http://travelhealthpro.org.uk/locations/cyprus/ Cyprus
-http://travelhealthpro.org.uk/locations/czechrepublic/ Czech Republic
-http://travelhealthpro.org.uk/locations/ivorycoast/ Côte d'Ivoire (Ivory Coast)
-http://travelhealthpro.org.uk/locations/drcongo/ Democratic Republic of the Congo
-http://travelhealthpro.org.uk/locations/faroeislandsdenmark/ Denmark (Faroe Islands)
+http://travelhealthpro.org.uk/locations/czechrepublic/ CzechRepublic
+http://travelhealthpro.org.uk/locations/ivorycoast/ CôtedIvoire-IvoryCoast
+http://travelhealthpro.org.uk/locations/drcongo/ DemocraticRepublicoftheCongo
+http://travelhealthpro.org.uk/locations/faroeislandsdenmark/ Denmark-FaroeIslands
 http://travelhealthpro.org.uk/locations/denmark/ Denmark
 http://travelhealthpro.org.uk/locations/djibouti/ Djibouti
 http://travelhealthpro.org.uk/locations/dominica/ Dominica
-http://travelhealthpro.org.uk/locations/dominicanrepublic/ Dominican Republic
-http://travelhealthpro.org.uk/locations/easttimor/ East Timor (Timor-Leste)
-http://travelhealthpro.org.uk/locations/chileeasterisland/ Easter Island (Chile)
-http://travelhealthpro.org.uk/locations/ecuadorgalapagos/ Ecuador (Galapagos)
+http://travelhealthpro.org.uk/locations/dominicanrepublic/ DominicanRepublic
+http://travelhealthpro.org.uk/locations/easttimor/ EastTimor-Timor-Leste
+http://travelhealthpro.org.uk/locations/chileeasterisland/ EasterIsland-Chile
+http://travelhealthpro.org.uk/locations/ecuadorgalapagos/ Ecuador-Galapagos
 http://travelhealthpro.org.uk/locations/ecuador/ Ecuador
 http://travelhealthpro.org.uk/locations/egypt/ Egypt
-http://travelhealthpro.org.uk/locations/elsalvador/ El Salvador
-http://travelhealthpro.org.uk/locations/equatorialguinea/ Equatorial Guinea
+http://travelhealthpro.org.uk/locations/elsalvador/ ElSalvador
+http://travelhealthpro.org.uk/locations/equatorialguinea/ EquatorialGuinea
 http://travelhealthpro.org.uk/locations/eritrea/ Eritrea
 http://travelhealthpro.org.uk/locations/estonia/ Estonia
 http://travelhealthpro.org.uk/locations/ethiopia/ Ethiopia
-http://travelhealthpro.org.uk/locations/falklandislands/ Falkland Islands
-http://travelhealthpro.org.uk/locations/faroeislandsdenmark/ Faroe Islands (Denmark)
+http://travelhealthpro.org.uk/locations/falklandislands/ FalklandIslands
+http://travelhealthpro.org.uk/locations/faroeislandsdenmark/ FaroeIslands-Denmark
 http://travelhealthpro.org.uk/locations/fiji/ Fiji
 http://travelhealthpro.org.uk/locations/finland/ Finland
 http://travelhealthpro.org.uk/locations/france/ France
-http://travelhealthpro.org.uk/locations/frenchguiana/ French Guiana
-http://travelhealthpro.org.uk/locations/frenchpolynesia/ French Polynesia (Including Tahiti)
+http://travelhealthpro.org.uk/locations/frenchguiana/ FrenchGuiana
+http://travelhealthpro.org.uk/locations/frenchpolynesia/ FrenchPolynesia-IncludingTahiti
 http://travelhealthpro.org.uk/locations/gabon/ Gabon
-http://travelhealthpro.org.uk/locations/ecuadorgalapagos/ Galapagos (Ecuador)
+http://travelhealthpro.org.uk/locations/ecuadorgalapagos/ Galapagos-Ecuador
 http://travelhealthpro.org.uk/locations/gambia/ Gambia
 http://travelhealthpro.org.uk/locations/georgiacountry/ Georgia
 http://travelhealthpro.org.uk/locations/germany/ Germany
@@ -108,27 +108,27 @@ http://travelhealthpro.org.uk/locations/guinea/ Guinea
 http://travelhealthpro.org.uk/locations/guyana/ Guyana
 http://travelhealthpro.org.uk/locations/haiti/ Haiti
 http://travelhealthpro.org.uk/locations/honduras/ Honduras
-http://travelhealthpro.org.uk/locations/chinahongkong/ Hong Kong (China)
+http://travelhealthpro.org.uk/locations/chinahongkong/ HongKong-China
 http://travelhealthpro.org.uk/locations/hungary/ Hungary
 http://travelhealthpro.org.uk/locations/iceland/ Iceland
-http://travelhealthpro.org.uk/locations/andamanandnicobarislands/ India (Andaman and Nicobar Islands)
+http://travelhealthpro.org.uk/locations/andamanandnicobarislands/ India-AndamanNicobarIslands
 http://travelhealthpro.org.uk/locations/india/ India
-http://travelhealthpro.org.uk/locations/borneoindonesia/ Indonesia (Borneo)
-http://travelhealthpro.org.uk/locations/indonesia/ Indonesia (including Bali)
+http://travelhealthpro.org.uk/locations/borneoindonesia/ Indonesia-Borneo
+http://travelhealthpro.org.uk/locations/indonesia/ Indonesia-includingBali
 http://travelhealthpro.org.uk/locations/iran/ Iran
 http://travelhealthpro.org.uk/locations/iraq/ Iraq
 http://travelhealthpro.org.uk/locations/ireland/ Ireland
 http://travelhealthpro.org.uk/locations/israel/ Israel
 http://travelhealthpro.org.uk/locations/italy/ Italy
-http://travelhealthpro.org.uk/locations/ivorycoast/ Ivory Coast
+http://travelhealthpro.org.uk/locations/ivorycoast/ IvoryCoast
 http://travelhealthpro.org.uk/locations/jamaica/ Jamaica
 http://travelhealthpro.org.uk/locations/japan/ Japan
 http://travelhealthpro.org.uk/locations/jordan/ Jordan
 http://travelhealthpro.org.uk/locations/kazakhstan/ Kazakhstan
 http://travelhealthpro.org.uk/locations/kenya/ Kenya
 http://travelhealthpro.org.uk/locations/kiribati/ Kiribati
-http://travelhealthpro.org.uk/locations/democratic-peoples-republicofkorea/ Korea (North)
-http://travelhealthpro.org.uk/locations/southkorea/ Korea (South)
+http://travelhealthpro.org.uk/locations/democratic-peoples-republicofkorea/ Korea-North
+http://travelhealthpro.org.uk/locations/southkorea/ Korea-South
 http://travelhealthpro.org.uk/locations/kosovo/ Kosovo
 http://travelhealthpro.org.uk/locations/kuwait/ Kuwait
 http://travelhealthpro.org.uk/locations/kyrgyzstan/ Kyrgyzstan
@@ -141,18 +141,18 @@ http://travelhealthpro.org.uk/locations/libya/ Libya
 http://travelhealthpro.org.uk/locations/liechtenstein/ Liechtenstein
 http://travelhealthpro.org.uk/locations/lithuania/ Lithuania
 http://travelhealthpro.org.uk/locations/luxembourg/ Luxembourg
-http://travelhealthpro.org.uk/locations/chinamacao/ Macao (China)
+http://travelhealthpro.org.uk/locations/chinamacao/ Macao-China
 http://travelhealthpro.org.uk/locations/macedonia/ Macedonia
 http://travelhealthpro.org.uk/locations/madagascar/ Madagascar
-http://travelhealthpro.org.uk/locations/madeiraportugal/ Madeira (Portugal)
+http://travelhealthpro.org.uk/locations/madeiraportugal/ Madeira-Portugal
 http://travelhealthpro.org.uk/locations/malawi/ Malawi
-http://travelhealthpro.org.uk/locations/malaysiaborneo/ Malaysia (Borneo)
+http://travelhealthpro.org.uk/locations/malaysiaborneo/ Malaysia-Borneo
 http://travelhealthpro.org.uk/locations/malaysia/ Malaysia
 http://travelhealthpro.org.uk/locations/maldives/ Maldives
 http://travelhealthpro.org.uk/locations/mali/ Mali
 http://travelhealthpro.org.uk/locations/malta/ Malta
-http://travelhealthpro.org.uk/locations/venezuela/ Margarita Island (Venezuela)
-http://travelhealthpro.org.uk/locations/marshallislands/ Marshall Islands
+http://travelhealthpro.org.uk/locations/venezuela/ MargaritaIsland-Venezuela
+http://travelhealthpro.org.uk/locations/marshallislands/ MarshallIslands
 http://travelhealthpro.org.uk/locations/martinique/ Martinique
 http://travelhealthpro.org.uk/locations/mauritania/ Mauritania
 http://travelhealthpro.org.uk/locations/mauritius/ Mauritius
@@ -166,108 +166,108 @@ http://travelhealthpro.org.uk/locations/montenegro/ Montenegro
 http://travelhealthpro.org.uk/locations/montserrat/ Montserrat
 http://travelhealthpro.org.uk/locations/morocco/ Morocco
 http://travelhealthpro.org.uk/locations/mozambique/ Mozambique
-http://travelhealthpro.org.uk/locations/myanmar/ Myanmar (Burma)
+http://travelhealthpro.org.uk/locations/myanmar/ Myanmar-Burma
 http://travelhealthpro.org.uk/locations/namibia/ Namibia
 http://travelhealthpro.org.uk/locations/nauru/ Nauru
 http://travelhealthpro.org.uk/locations/nepal/ Nepal
-http://travelhealthpro.org.uk/locations/caribbnetherlands/ Netherlands (Caribbean Islands)
+http://travelhealthpro.org.uk/locations/caribbnetherlands/ Netherlands-CaribbeanIslands
 http://travelhealthpro.org.uk/locations/netherlands/ Netherlands
-http://travelhealthpro.org.uk/locations/newcaledonia/ New Caledonia
-http://travelhealthpro.org.uk/locations/newzealand/ New Zealand
+http://travelhealthpro.org.uk/locations/newcaledonia/ NewCaledonia
+http://travelhealthpro.org.uk/locations/newzealand/ NewZealand
 http://travelhealthpro.org.uk/locations/nicaragua/ Nicaragua
 http://travelhealthpro.org.uk/locations/niger/ Niger
 http://travelhealthpro.org.uk/locations/nigeria/ Nigeria
 http://travelhealthpro.org.uk/locations/niue/ Niue
-http://travelhealthpro.org.uk/locations/democratic-peoples-republicofkorea/ North Korea
-http://travelhealthpro.org.uk/locations/northernmarianaislands/ Northern Mariana Islands
-http://travelhealthpro.org.uk/locations/norwaysvalbardandjanmayen/ Norway (Svalbard and Jan Mayen)
+http://travelhealthpro.org.uk/locations/democratic-peoples-republicofkorea/ NorthKorea
+http://travelhealthpro.org.uk/locations/northernmarianaislands/ NorthernMarianaIslands
+http://travelhealthpro.org.uk/locations/norwaysvalbardandjanmayen/ Norway-SvalbardJanMayen
 http://travelhealthpro.org.uk/locations/norway/ Norway
 http://travelhealthpro.org.uk/locations/oman/ Oman
 http://travelhealthpro.org.uk/locations/pakistan/ Pakistan
 http://travelhealthpro.org.uk/locations/palau/ Palau
-http://travelhealthpro.org.uk/locations/palestinianterritories/ Palestinian Territories
+http://travelhealthpro.org.uk/locations/palestinianterritories/ PalestinianTerritories
 http://travelhealthpro.org.uk/locations/panama/ Panama
-http://travelhealthpro.org.uk/locations/papuanewguinea/ Papua New Guinea
+http://travelhealthpro.org.uk/locations/papuanewguinea/ PapuaNewGuinea
 http://travelhealthpro.org.uk/locations/paraguay/ Paraguay
 http://travelhealthpro.org.uk/locations/peru/ Peru
 http://travelhealthpro.org.uk/locations/philippines/ Philippines
-http://travelhealthpro.org.uk/locations/pitcairnislands/ Pitcairn Islands
+http://travelhealthpro.org.uk/locations/pitcairnislands/ PitcairnIslands
 http://travelhealthpro.org.uk/locations/poland/ Poland
-http://travelhealthpro.org.uk/locations/azoresportugal/ Portugal (Azores)
-http://travelhealthpro.org.uk/locations/madeiraportugal/ Portugal (Madeira)
+http://travelhealthpro.org.uk/locations/azoresportugal/ Portugal-Azores
+http://travelhealthpro.org.uk/locations/madeiraportugal/ Portugal-Madeira
 http://travelhealthpro.org.uk/locations/portugal/ Portugal
-http://travelhealthpro.org.uk/locations/puertorico/ Puerto Rico
+http://travelhealthpro.org.uk/locations/puertorico/ PuertoRico
 http://travelhealthpro.org.uk/locations/qatar/ Qatar
 http://travelhealthpro.org.uk/locations/reunion/ Reunion
 http://travelhealthpro.org.uk/locations/romania/ Romania
 http://travelhealthpro.org.uk/locations/russia/ Russia
 http://travelhealthpro.org.uk/locations/rwanda/ Rwanda
 http://travelhealthpro.org.uk/locations/samoa/ Samoa
-http://travelhealthpro.org.uk/locations/sanmarino/ San Marino
-http://travelhealthpro.org.uk/locations/saotomeandprincipe/ Sao Tome and Principe
-http://travelhealthpro.org.uk/locations/saudiarabia/ Saudi Arabia
+http://travelhealthpro.org.uk/locations/sanmarino/ SanMarino
+http://travelhealthpro.org.uk/locations/saotomeandprincipe/ SaoTomePrincipe
+http://travelhealthpro.org.uk/locations/saudiarabia/ SaudiArabia
 http://travelhealthpro.org.uk/locations/senegal/ Senegal
 http://travelhealthpro.org.uk/locations/serbia/ Serbia
 http://travelhealthpro.org.uk/locations/seychelles/ Seychelles
-http://travelhealthpro.org.uk/locations/sierraleone/ Sierra Leone
+http://travelhealthpro.org.uk/locations/sierraleone/ SierraLeone
 http://travelhealthpro.org.uk/locations/singapore/ Singapore
 http://travelhealthpro.org.uk/locations/slovakia/ Slovakia
 http://travelhealthpro.org.uk/locations/slovenia/ Slovenia
-http://travelhealthpro.org.uk/locations/solomonislands/ Solomon Islands
+http://travelhealthpro.org.uk/locations/solomonislands/ SolomonIslands
 http://travelhealthpro.org.uk/locations/somalia/ Somalia
-http://travelhealthpro.org.uk/locations/southafrica/ South Africa
-http://travelhealthpro.org.uk/locations/southkorea/ South Korea
-http://travelhealthpro.org.uk/locations/southsudan/ South Sudan
-http://travelhealthpro.org.uk/locations/balearicislandsspain/ Spain (Balearic Islands)
-http://travelhealthpro.org.uk/locations/canaryislandsspain/ Spain (Canary Islands)
+http://travelhealthpro.org.uk/locations/southafrica/ SouthAfrica
+http://travelhealthpro.org.uk/locations/southkorea/ SouthKorea
+http://travelhealthpro.org.uk/locations/southsudan/ SouthSudan
+http://travelhealthpro.org.uk/locations/balearicislandsspain/ Spain-BalearicIslands
+http://travelhealthpro.org.uk/locations/canaryislandsspain/ Spain-CanaryIslands
 http://travelhealthpro.org.uk/locations/spain/ Spain
-http://travelhealthpro.org.uk/locations/srilanka/ Sri Lanka
-http://travelhealthpro.org.uk/locations/ascension/ St Helena (Ascension, Tristan da Cunha)
-http://travelhealthpro.org.uk/locations/saintkittsandnevis/ St Kitts and Nevis
-http://travelhealthpro.org.uk/locations/saintlucia/ St Lucia
-http://travelhealthpro.org.uk/locations/saintpierreandmiquelon/ St Pierre and Miquelon
-http://travelhealthpro.org.uk/locations/saintvincentandthegrenadines/ St Vincent and the Grenadines
+http://travelhealthpro.org.uk/locations/srilanka/ SriLanka
+http://travelhealthpro.org.uk/locations/ascension/ StHelena-AscensionTristandaCunha
+http://travelhealthpro.org.uk/locations/saintkittsandnevis/ StKittsNevis
+http://travelhealthpro.org.uk/locations/saintlucia/ StLucia
+http://travelhealthpro.org.uk/locations/saintpierreandmiquelon/ StPierreMiquelon
+http://travelhealthpro.org.uk/locations/saintvincentandthegrenadines/ StVincenttheGrenadines
 http://travelhealthpro.org.uk/locations/sudan/ Sudan
 http://travelhealthpro.org.uk/locations/suriname/ Suriname
-http://travelhealthpro.org.uk/locations/norwaysvalbardandjanmayen/ Svalbard and Jan Mayen (Norway)
+http://travelhealthpro.org.uk/locations/norwaysvalbardandjanmayen/ SvalbardJanMayen-Norway
 http://travelhealthpro.org.uk/locations/swaziland/ Swaziland
 http://travelhealthpro.org.uk/locations/sweden/ Sweden
 http://travelhealthpro.org.uk/locations/switzerland/ Switzerland
 http://travelhealthpro.org.uk/locations/syria/ Syria
-http://travelhealthpro.org.uk/locations/frenchpolynesia/ Tahiti (French Polynesia)
+http://travelhealthpro.org.uk/locations/frenchpolynesia/ Tahiti-FrenchPolynesia
 http://travelhealthpro.org.uk/locations/taiwan/ Taiwan
 http://travelhealthpro.org.uk/locations/tajikistan/ Tajikistan
-http://travelhealthpro.org.uk/locations/tanzania/ Tanzania (Including Zanzibar)
+http://travelhealthpro.org.uk/locations/tanzania/ Tanzania-IncludingZanzibar
 http://travelhealthpro.org.uk/locations/thailand/ Thailand
-http://travelhealthpro.org.uk/locations/chinatibet/ Tibet (China)
-http://travelhealthpro.org.uk/locations/easttimor/ Timor-Leste (East Timor)
+http://travelhealthpro.org.uk/locations/chinatibet/ Tibet-China
+http://travelhealthpro.org.uk/locations/easttimor/ Timor-Leste-EastTimor
 http://travelhealthpro.org.uk/locations/togo/ Togo
 http://travelhealthpro.org.uk/locations/tokelau/ Tokelau
 http://travelhealthpro.org.uk/locations/tonga/ Tonga
-http://travelhealthpro.org.uk/locations/trinidadandtobago/ Trinidad and Tobago
-http://travelhealthpro.org.uk/locations/ascension/ Tristan da Cunha (Ascension Island, St Helena)
+http://travelhealthpro.org.uk/locations/trinidadandtobago/ TrinidadTobago
+http://travelhealthpro.org.uk/locations/ascension/ TristandaCunha-AscensionIslandStHelena
 http://travelhealthpro.org.uk/locations/tunisia/ Tunisia
 http://travelhealthpro.org.uk/locations/turkey/ Turkey
 http://travelhealthpro.org.uk/locations/turkmenistan/ Turkmenistan
-http://travelhealthpro.org.uk/locations/turksandcaicosislands/ Turks and Caicos Islands
+http://travelhealthpro.org.uk/locations/turksandcaicosislands/ TurksCaicosIslands
 http://travelhealthpro.org.uk/locations/tuvalu/ Tuvalu
-http://travelhealthpro.org.uk/locations/virginislandsusa/ USA Virgin Islands
+http://travelhealthpro.org.uk/locations/virginislandsusa/ USAVirginIslands
 http://travelhealthpro.org.uk/locations/uganda/ Uganda
 http://travelhealthpro.org.uk/locations/ukraine/ Ukraine
-http://travelhealthpro.org.uk/locations/unitedarabemirates/ United Arab Emirates
-http://travelhealthpro.org.uk/locations/unitedkingdom/ United Kingdom
-http://travelhealthpro.org.uk/locations/unitedstates/ United States
+http://travelhealthpro.org.uk/locations/unitedarabemirates/ UnitedArabEmirates
+http://travelhealthpro.org.uk/locations/unitedkingdom/ UnitedKingdom
+http://travelhealthpro.org.uk/locations/unitedstates/ UnitedStates
 http://travelhealthpro.org.uk/locations/uruguay/ Uruguay
 http://travelhealthpro.org.uk/locations/uzbekistan/ Uzbekistan
 http://travelhealthpro.org.uk/locations/vanuatu/ Vanuatu
 http://travelhealthpro.org.uk/locations/venezuela/ Venezuela
 http://travelhealthpro.org.uk/locations/vietnam/ Vietnam
-http://travelhealthpro.org.uk/locations/britishvirginislands/ Virgin Islands (British)
-http://travelhealthpro.org.uk/locations/virginislandsusa/ Virgin Islands (USA)
-http://travelhealthpro.org.uk/locations/wakeisland/ Wake Island
-http://travelhealthpro.org.uk/locations/wallisandfutunaislands/ Wallis and Futuna Islands
-http://travelhealthpro.org.uk/locations/westernsahara/ Western Sahara
+http://travelhealthpro.org.uk/locations/britishvirginislands/ VirginIslands-British
+http://travelhealthpro.org.uk/locations/virginislandsusa/ VirginIslands-USA
+http://travelhealthpro.org.uk/locations/wakeisland/ WakeIsland
+http://travelhealthpro.org.uk/locations/wallisandfutunaislands/ WallisFutunaIslands
+http://travelhealthpro.org.uk/locations/westernsahara/ WesternSahara
 http://travelhealthpro.org.uk/locations/yemen/ Yemen
 http://travelhealthpro.org.uk/locations/zambia/ Zambia
-http://travelhealthpro.org.uk/locations/tanzania/ Zanzibar (Tanzania)
+http://travelhealthpro.org.uk/locations/tanzania/ Zanzibar-Tanzania
 http://travelhealthpro.org.uk/locations/zimbabwe/ Zimbabwe
